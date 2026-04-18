@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/user_sched/__init__.py
+src/user_sched/cli.py
+src/user_sched/solver.py
+src/user_sched_greedy.egg-info/PKG-INFO
+src/user_sched_greedy.egg-info/SOURCES.txt
+src/user_sched_greedy.egg-info/dependency_links.txt
+src/user_sched_greedy.egg-info/requires.txt
+src/user_sched_greedy.egg-info/top_level.txt
+tests/test_solver.py
